@@ -1,4 +1,3 @@
-# Module 12 Report Template
 ## Overview of the Analysis
 This analysis focuses on constructing a predictive model using financial data to classify loan applicants into healthy or high-risk categories, specifically predicting the likelihood of loan default. 
 
