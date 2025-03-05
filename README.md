@@ -5,7 +5,7 @@ In this Challenge, you’ll use various techniques to train and evaluate a model
     • Ensure you have the following installed on your system:
                 •	Python 3.x
                 •	Pandas library (pip install pandas)
-    • Clone the repository to your local machine: [GitHub Link] (https://github.com/ToniMak70/credit-risk-challenge.git)
+    • Clone the repository to your local machine: [GitHub Link] (https://github.com/ToniMak70/credit-risk-classification.git)
 # Prepare the Data 
     • Import required libraries and dependencies
     • Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.

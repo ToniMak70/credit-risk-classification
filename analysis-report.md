@@ -1,4 +1,4 @@
-## Overview of the Analysis
+## Overview of credit-risk-classification Analysis
 This analysis focuses on constructing a predictive model using financial data to classify loan applicants into healthy or high-risk categories, specifically predicting the likelihood of loan default. 
 
 The dataset contained financial information for loan applicants, including loan size, interest rate, income, debt-to-income ratio, account history, derogatory marks, and total debt. The goal was to predict loan default, classifying loans as high-risk.
